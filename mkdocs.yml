@@ -1,7 +1,0 @@
-site_name: 'Distillation-seminar'
-
-nav:
-  - Home: README.md
-
-plugins:
-  - techdocs-core
